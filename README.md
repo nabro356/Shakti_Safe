@@ -11,3 +11,12 @@ A web application embedded with Google maps API which shows the safest route to 
 <p>Note : Embedded in Shakti-SOS App</p>
 
 <p>This project was developed by Team Way to Infinity for Ideate2Hack - 2023/p>
+
+<p><b>Web Interface :</b></p>
+<div>
+  <img src=https://github.com/nabro356/Shakti_Safe/assets/112922661/08de4bca-719c-4666-80ad-32949f4737d9>
+  </br>
+  <img src=https://github.com/nabro356/Shakti_Safe/assets/112922661/f3108d31-6575-480b-9153-3352c6c080cf>
+</div>
+
+</div>
