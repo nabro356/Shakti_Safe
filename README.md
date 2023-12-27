@@ -10,7 +10,7 @@ A web application embedded with Google maps API which shows the safest route to 
 
 <p>Note : Embedded in Shakti-SOS App</p>
 
-<p>This project was developed by Team Way to Infinity for Ideate2Hack - 2023/p>
+<p>This project was developed by Team Way to Infinity for Ideate2Hack - 2023</p>
 
 <p><b>Web Interface :</b></p>
 <div>
